@@ -59,7 +59,7 @@ Sync configs across **Claude Code**, **Cursor**, **OpenCode**, **Codex**. One ch
 
 ### 🛒 [UnMarket](https://github.com/nicepkg/unmarket)
 [![Stars](https://img.shields.io/github/stars/nicepkg/unmarket?style=flat-square&label=⭐)](https://github.com/nicepkg/unmarket)
-> In Progress
+> [Website](https://unmarket.xiaominglab.com)
 
 Install **VS Code Marketplace** extensions in Cursor/Windsurf with one click.
 
@@ -68,6 +68,7 @@ Install **VS Code Marketplace** extensions in Cursor/Windsurf with one click.
 
 ### 🤖 [aide](https://github.com/nicepkg/aide)
 [![Stars](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&label=⭐)](https://github.com/nicepkg/aide)
+> [Website](https://aide.nicepkg.cn)
 
 VS Code AI extension. Select code → add comments, convert language, batch process files.
 
