@@ -37,6 +37,15 @@ I believe **tool mastery > coding skill**. When others hand-weave, I use a sewin
 <tr>
 <td width="50%">
 
+### 🧠 [ai-workflow](https://github.com/nicepkg/ai-workflow)
+[![Stars](https://img.shields.io/github/stars/nicepkg/ai-workflow?style=flat-square&label=⭐)](https://github.com/nicepkg/ai-workflow)
+> [Website](https://ai-workflow.xiaominglab.com)
+
+170+ pre-built skills for **Claude Code**, **Cursor**, **Codex** & 14+ AI tools. One command → instant domain expertise.
+
+</td>
+<td width="50%">
+
 ### 🔄 [Vsync](https://github.com/nicepkg/vsync)
 [![Stars](https://img.shields.io/github/stars/nicepkg/vsync?style=flat-square&label=⭐)](https://github.com/nicepkg/vsync)
 > [Website](https://vsync.xiaominglab.com)
@@ -44,6 +53,8 @@ I believe **tool mastery > coding skill**. When others hand-weave, I use a sewin
 Sync configs across **Claude Code**, **Cursor**, **OpenCode**, **Codex**. One change, everywhere updated.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🛒 [UnMarket](https://github.com/nicepkg/unmarket)
@@ -53,23 +64,12 @@ Sync configs across **Claude Code**, **Cursor**, **OpenCode**, **Codex**. One ch
 Install **VS Code Marketplace** extensions in Cursor/Windsurf with one click.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🤖 [aide](https://github.com/nicepkg/aide)
 [![Stars](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&label=⭐)](https://github.com/nicepkg/aide)
 
 VS Code AI extension. Select code → add comments, convert language, batch process files.
-
-</td>
-<td width="50%">
-
-### 🎯 [dom-to-code](https://github.com/better-tcy/dom-to-code)
-[![Stars](https://img.shields.io/github/stars/better-tcy/dom-to-code?style=flat-square&label=⭐)](https://github.com/better-tcy/dom-to-code)
-> Collaboration
-
-Ctrl+click any DOM → jump to source code in VS Code.
 
 </td>
 </tr>
@@ -81,12 +81,22 @@ Ctrl+click any DOM → jump to source code in VS Code.
 <tr>
 <td width="50%">
 
+### 🎯 [dom-to-code](https://github.com/better-tcy/dom-to-code)
+[![Stars](https://img.shields.io/github/stars/better-tcy/dom-to-code?style=flat-square&label=⭐)](https://github.com/better-tcy/dom-to-code)
+
+Ctrl+click any DOM → jump to source code in VS Code.
+
+</td>
+<td width="50%">
+
 ### 🏃 [gpt-runner](https://github.com/nicepkg/gpt-runner)
 [![Stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=flat-square&label=⭐)](https://github.com/nicepkg/gpt-runner)
 
 Manage AI prompts with Markdown files. Version control your AI personas.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 📱 [ios-scriptable-tsx](https://github.com/2214962083/ios-scriptable-tsx)
@@ -95,8 +105,6 @@ Manage AI prompts with Markdown files. Version control your AI personas.
 Write iOS widgets with TypeScript + JSX.
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 ### 🦸 [vue-superman](https://github.com/2214962083/vue-superman)
@@ -105,12 +113,17 @@ Write iOS widgets with TypeScript + JSX.
 Vue toolkit: JSX in templates, mock data generators, playground.
 
 </td>
+</tr>
+<tr>
 <td width="50%">
 
 ### 🌐 [vr360](https://github.com/nicepkg/vr360)
 [![Stars](https://img.shields.io/github/stars/nicepkg/vr360?style=flat-square&label=⭐)](https://github.com/nicepkg/vr360)
 
 Three.js panoramic solution. JSON-driven config for virtual tours.
+
+</td>
+<td width="50%">
 
 </td>
 </tr>
