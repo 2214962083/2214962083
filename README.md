@@ -1,76 +1,138 @@
-# Hi, I'm Jinming Yang 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jinming%20Yang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20AI%20Tooling%20Builder&descAlignY=52&descSize=18)
 
-📍 **China** | 🛠️ **Frontend Engineer × 7 years** | 🤖 **AI Tooling Builder**
+<p align="center">
+  <a href="https://github.com/2214962083"><img src="https://img.shields.io/github/stars/2214962083?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub Stars"/></a>
+  <a href="https://github.com/2214962083"><img src="https://komarev.com/ghpvc/?username=2214962083&style=for-the-badge&color=blue" alt="Profile Views"/></a>
+</p>
 
-[![GitHub Stars](https://img.shields.io/github/stars/2214962083?style=flat-square&logo=github&label=Stars)](https://github.com/2214962083)
-[![Profile Views](https://komarev.com/ghpvc/?username=2214962083&color=blue&style=flat-square)](https://github.com/2214962083)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=%E9%81%87%E5%88%B0%E9%87%8D%E5%A4%8D%E7%9A%84%E4%BA%8B%E6%83%85%E5%B0%B1%E5%86%99%E4%B8%AA%E5%B7%A5%E5%85%B7;If+I+do+something+twice%2C+I+write+a+tool;Building+AI-powered+developer+tools;7%2B+years+of+Frontend+Engineering" alt="Typing SVG" />
+</p>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+## 🛠️ Tech Stack
 
-> "遇到重复的事情就写个工具" — If I do something twice, I write a tool.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,vite,tailwind,electron&theme=dark" />
+</p>
 
-**INTP** — Curious by nature, allergic to bureaucracy, obsessed with productivity.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,docker,github,vscode,figma,cloudflare,vercel&theme=dark" />
+</p>
 
-## Current Focus
+## 🚀 Current Focus
 
-- 🔄 **[Vsync](https://github.com/nicepkg/vsync)** ([Website](https://vsync.xiaominglab.com)) - Sync configs across Claude Code, Cursor, OpenCode, Codex. One change, everywhere updated.
-- 🛒 **[UnMarket](https://github.com/nicepkg/unmarket)** - Install VS Code Marketplace extensions in Cursor/Windsurf with one click. (in progress)
+<table>
+<tr>
+<td width="50%">
 
-## Projects
+### 🔄 [Vsync](https://github.com/nicepkg/vsync)
+> [Website](https://vsync.xiaominglab.com)
 
-### AI & Developer Tools
+Sync configs across **Claude Code**, **Cursor**, **OpenCode**, **Codex**. One change, everywhere updated.
 
-- 🤖 **[aide](https://github.com/nicepkg/aide)** `2.7k ★` - VS Code AI extension. Select code → add comments, convert language, batch process files. No more copy-paste to ChatGPT.
-- 🏃 **[gpt-runner](https://github.com/nicepkg/gpt-runner)** `370 ★` - Manage AI prompts with Markdown files. Version control your AI personas.
+</td>
+<td width="50%">
 
-### Frontend Utilities
+### 🛒 [UnMarket](https://github.com/nicepkg/unmarket)
+> In Progress
 
-- 🎯 **[dom-to-code](https://github.com/better-tcy/dom-to-code)** `171 ★` - Ctrl+click any DOM element → jump to source code in VS Code. Supports Vue, React, Vite, Webpack.
-- 🦸 **[vue-superman](https://github.com/2214962083/vue-superman)** `34 ★` - Vue toolkit: JSX in templates, mock data generators, playground components.
+Install **VS Code Marketplace** extensions in Cursor/Windsurf with one click.
 
-### Legacy (Still Useful)
+</td>
+</tr>
+</table>
 
-- 🌐 **[vr360](https://github.com/nicepkg/vr360)** `157 ★` - Three.js panoramic solution. JSON-driven config for virtual tours.
-- 📱 **[ios-scriptable-tsx](https://github.com/2214962083/ios-scriptable-tsx)** `130 ★` - Write iOS widgets with TypeScript + JSX. React-style DX for Scriptable.
+## ⭐ Featured Projects
 
-## GitHub Stats
+<table>
+<tr>
+<td width="50%">
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/2214962083)
+### 🤖 [aide](https://github.com/nicepkg/aide)
+![Stars](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&color=yellow)
 
-## Writing
+VS Code AI extension. Select code → add comments, convert language, batch process files.
+
+</td>
+<td width="50%">
+
+### 🏃 [gpt-runner](https://github.com/nicepkg/gpt-runner)
+![Stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=flat-square&color=yellow)
+
+Manage AI prompts with Markdown files. Version control your AI personas.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🎯 [dom-to-code](https://github.com/nicepkg/dom-to-code)
+![Stars](https://img.shields.io/github/stars/nicepkg/dom-to-code?style=flat-square&color=yellow)
+
+Ctrl+click any DOM → jump to source code in VS Code.
+
+</td>
+<td width="50%">
+
+### 📱 [ios-scriptable-tsx](https://github.com/2214962083/ios-scriptable-tsx)
+![Stars](https://img.shields.io/github/stars/2214962083/ios-scriptable-tsx?style=flat-square&color=yellow)
+
+Write iOS widgets with TypeScript + JSX.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>📦 More Projects</b></summary>
+<br>
+
+| Project | Description |
+|---------|-------------|
+| [vue-superman](https://github.com/2214962083/vue-superman) | Vue toolkit: JSX in templates, mock data generators |
+| [vr360](https://github.com/nicepkg/vr360) | Three.js panoramic solution, JSON-driven config |
+
+</details>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/2214962083/2214962083/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/2214962083/2214962083/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/2214962083/2214962083/blob/output/github-snake.svg" />
+  </picture>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2214962083&theme=react-dark&hide_border=true&area=true" width="100%"/>
+</p>
+
+## ✍️ Writing
 
 - 📚 **[掘金文章](https://juejin.cn/user/800100194987294/posts)** - Technical blog posts (Chinese)
 
-## Connect
+## 🔗 Connect
 
-[![GitHub](https://img.shields.io/badge/-@2214962083-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/2214962083)
-[![nicepkg](https://img.shields.io/badge/-nicepkg-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nicepkg)
-[![Twitter](https://img.shields.io/badge/-@jinmingyang666-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://x.com/jinmingyang666)
-[![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/83540912)
-[![Douyin](https://img.shields.io/badge/-抖音-000000?style=flat-square&logo=tiktok&logoColor=white)](https://www.douyin.com/user/79841360454)
+<p align="center">
+  <a href="https://github.com/2214962083"><img src="https://img.shields.io/badge/GitHub-2214962083-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://github.com/nicepkg"><img src="https://img.shields.io/badge/Org-nicepkg-181717?style=for-the-badge&logo=github" /></a>
+  <a href="https://x.com/jinmingyang666"><img src="https://img.shields.io/badge/Twitter-@jinmingyang666-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <a href="https://space.bilibili.com/83540912"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
+  <a href="https://www.douyin.com/user/79841360454"><img src="https://img.shields.io/badge/Douyin-抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+</p>
 
 ---
 
-### Philosophy
+<p align="center">
+  <b>INTP</b> — Curious by nature, allergic to bureaucracy, obsessed with productivity.
+</p>
 
-> "成功就是以自己喜欢的方式生活"
+<p align="center">
+  <i>"成功就是以自己喜欢的方式生活"</i>
+</p>
 
-I build tools when I get frustrated enough. Most of my projects started as "I'm tired of doing this manually". If it saves me time, maybe it saves yours too.
-
-<details>
-<summary>Random Facts</summary>
-
-- Prefer deep connections over networking
-- Can't stand inefficient workflows
-- Will research something until fully understood
-- Night owl coder
-- Coffee-powered
-
-</details>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
