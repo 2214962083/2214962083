@@ -20,7 +20,7 @@ I believe **tool mastery > coding skill**. When others hand-weave, I use a sewin
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,vite,tailwind,electron&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=ts,js,vue,react,nodejs,nextjs,vite,tailwind,electron,vercel,cloudflare&theme=dark" />
 </p>
 
 <p align="center">
@@ -96,18 +96,25 @@ Write iOS widgets with TypeScript + JSX.
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🦸 [vue-superman](https://github.com/2214962083/vue-superman)
+[![Stars](https://img.shields.io/github/stars/2214962083/vue-superman?style=flat-square&label=⭐)](https://github.com/2214962083/vue-superman)
+
+Vue toolkit: JSX in templates, mock data generators, playground.
+
+</td>
+<td width="50%">
+
+### 🌐 [vr360](https://github.com/nicepkg/vr360)
+[![Stars](https://img.shields.io/github/stars/nicepkg/vr360?style=flat-square&label=⭐)](https://github.com/nicepkg/vr360)
+
+Three.js panoramic solution. JSON-driven config for virtual tours.
+
+</td>
+</tr>
 </table>
-
-<details>
-<summary><b>📂 More Legacy Projects</b></summary>
-<br>
-
-| Project | Stars | Description |
-|---------|-------|-------------|
-| [vue-superman](https://github.com/2214962083/vue-superman) | [![Stars](https://img.shields.io/github/stars/2214962083/vue-superman?style=flat-square&label=⭐)](https://github.com/2214962083/vue-superman) | Vue toolkit: JSX in templates, mock data generators |
-| [vr360](https://github.com/nicepkg/vr360) | [![Stars](https://img.shields.io/github/stars/nicepkg/vr360?style=flat-square&label=⭐)](https://github.com/nicepkg/vr360) | Three.js panoramic solution, JSON-driven config |
-
-</details>
 
 ## 📊 GitHub Stats
 
@@ -137,7 +144,7 @@ Write iOS widgets with TypeScript + JSX.
 
 <p align="center">
   <a href="https://space.bilibili.com/83540912"><img src="https://img.shields.io/badge/Bilibili-哔哩哔哩-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" /></a>
-  <a href="https://www.douyin.com/user/79841360454"><img src="https://img.shields.io/badge/Douyin-抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="https://www.douyin.com/user/MS4wLjABAAAAAHGEUOQlkdfgHzzs88wWgKWwl2wyEcRYvodqmwfvK_k"><img src="https://img.shields.io/badge/Douyin-抖音-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
 </p>
 
 ---
