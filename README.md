@@ -1,8 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jinming%20Yang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20AI-First%20Builder&descAlignY=52&descSize=18)
 
 <p align="center">
-  <a href="https://github.com/2214962083"><img src="https://img.shields.io/github/stars/2214962083?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/></a>
-  <a href="https://github.com/2214962083"><img src="https://komarev.com/ghpvc/?username=2214962083&style=for-the-badge&color=blue" alt="Profile Views"/></a>
+  <a href="https://github.com/nicepkg"><img src="https://img.shields.io/github/stars/nicepkg?style=for-the-badge&logo=github&label=nicepkg%20Stars" alt="nicepkg Stars"/></a>
 </p>
 
 <p align="center">
