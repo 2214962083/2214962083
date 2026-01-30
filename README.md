@@ -1,13 +1,21 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jinming%20Yang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20AI%20Tooling%20Builder&descAlignY=52&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jinming%20Yang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20AI-First%20Builder&descAlignY=52&descSize=18)
 
 <p align="center">
-  <a href="https://github.com/2214962083"><img src="https://img.shields.io/github/stars/2214962083?style=for-the-badge&logo=github&label=Stars&color=yellow" alt="GitHub Stars"/></a>
+  <a href="https://github.com/2214962083"><img src="https://img.shields.io/github/stars/2214962083?style=for-the-badge&logo=github&label=Stars" alt="GitHub Stars"/></a>
   <a href="https://github.com/2214962083"><img src="https://komarev.com/ghpvc/?username=2214962083&style=for-the-badge&color=blue" alt="Profile Views"/></a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=600&lines=%E9%81%87%E5%88%B0%E9%87%8D%E5%A4%8D%E7%9A%84%E4%BA%8B%E6%83%85%E5%B0%B1%E5%86%99%E4%B8%AA%E5%B7%A5%E5%85%B7;If+I+do+something+twice%2C+I+write+a+tool;Building+AI-powered+developer+tools;7%2B+years+of+Frontend+Engineering" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&random=false&width=520&lines=If+I+do+something+twice%2C+I+write+a+tool;AI+early+adopter+since+Copilot+beta+2021;Automate+everything%2C+maximize+slacking+time;7%2B+years+Frontend+%2B+AI+Tooling" alt="Typing SVG" />
 </p>
+
+## 🧠 About
+
+> **2021** - Beta testing GitHub Copilot while most hadn't heard of it
+> **2023** - Using ChatGPT so fluently that I finish tasks faster and slack more
+> **2026** - Building with Claude Code, Cursor, OpenCode... always one step ahead
+
+I believe **tool mastery > coding skill**. When others hand-weave, I use a sewing machine. When they get sewing machines, I'm on auto-looms. Human time should be spent on meaningful things — let AI handle the rest.
 
 ## 🛠️ Tech Stack
 
@@ -16,16 +24,21 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,go,docker,github,vscode,figma,cloudflare,vercel&theme=dark" />
+  <img src="https://img.shields.io/badge/-Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/-OpenCode-000000?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Codex-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Gemini_CLI-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-## 🚀 Current Focus
+## 🚀 Current Projects
 
 <table>
 <tr>
 <td width="50%">
 
 ### 🔄 [Vsync](https://github.com/nicepkg/vsync)
+[![Stars](https://img.shields.io/github/stars/nicepkg/vsync?style=flat-square&label=⭐)](https://github.com/nicepkg/vsync)
 > [Website](https://vsync.xiaominglab.com)
 
 Sync configs across **Claude Code**, **Cursor**, **OpenCode**, **Codex**. One change, everywhere updated.
@@ -34,48 +47,50 @@ Sync configs across **Claude Code**, **Cursor**, **OpenCode**, **Codex**. One ch
 <td width="50%">
 
 ### 🛒 [UnMarket](https://github.com/nicepkg/unmarket)
+[![Stars](https://img.shields.io/github/stars/nicepkg/unmarket?style=flat-square&label=⭐)](https://github.com/nicepkg/unmarket)
 > In Progress
 
 Install **VS Code Marketplace** extensions in Cursor/Windsurf with one click.
 
 </td>
 </tr>
-</table>
-
-## ⭐ Featured Projects
-
-<table>
 <tr>
 <td width="50%">
 
 ### 🤖 [aide](https://github.com/nicepkg/aide)
-![Stars](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&color=yellow)
+[![Stars](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&label=⭐)](https://github.com/nicepkg/aide)
 
 VS Code AI extension. Select code → add comments, convert language, batch process files.
 
 </td>
 <td width="50%">
 
-### 🏃 [gpt-runner](https://github.com/nicepkg/gpt-runner)
-![Stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=flat-square&color=yellow)
+### 🎯 [dom-to-code](https://github.com/better-tcy/dom-to-code)
+[![Stars](https://img.shields.io/github/stars/better-tcy/dom-to-code?style=flat-square&label=⭐)](https://github.com/better-tcy/dom-to-code)
+> Collaboration
 
-Manage AI prompts with Markdown files. Version control your AI personas.
+Ctrl+click any DOM → jump to source code in VS Code.
 
 </td>
 </tr>
+</table>
+
+## 📦 Legacy Projects
+
+<table>
 <tr>
 <td width="50%">
 
-### 🎯 [dom-to-code](https://github.com/nicepkg/dom-to-code)
-![Stars](https://img.shields.io/github/stars/nicepkg/dom-to-code?style=flat-square&color=yellow)
+### 🏃 [gpt-runner](https://github.com/nicepkg/gpt-runner)
+[![Stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=flat-square&label=⭐)](https://github.com/nicepkg/gpt-runner)
 
-Ctrl+click any DOM → jump to source code in VS Code.
+Manage AI prompts with Markdown files. Version control your AI personas.
 
 </td>
 <td width="50%">
 
 ### 📱 [ios-scriptable-tsx](https://github.com/2214962083/ios-scriptable-tsx)
-![Stars](https://img.shields.io/github/stars/2214962083/ios-scriptable-tsx?style=flat-square&color=yellow)
+[![Stars](https://img.shields.io/github/stars/2214962083/ios-scriptable-tsx?style=flat-square&label=⭐)](https://github.com/2214962083/ios-scriptable-tsx)
 
 Write iOS widgets with TypeScript + JSX.
 
@@ -84,13 +99,13 @@ Write iOS widgets with TypeScript + JSX.
 </table>
 
 <details>
-<summary><b>📦 More Projects</b></summary>
+<summary><b>📂 More Legacy Projects</b></summary>
 <br>
 
-| Project | Description |
-|---------|-------------|
-| [vue-superman](https://github.com/2214962083/vue-superman) | Vue toolkit: JSX in templates, mock data generators |
-| [vr360](https://github.com/nicepkg/vr360) | Three.js panoramic solution, JSON-driven config |
+| Project | Stars | Description |
+|---------|-------|-------------|
+| [vue-superman](https://github.com/2214962083/vue-superman) | [![Stars](https://img.shields.io/github/stars/2214962083/vue-superman?style=flat-square&label=⭐)](https://github.com/2214962083/vue-superman) | Vue toolkit: JSX in templates, mock data generators |
+| [vr360](https://github.com/nicepkg/vr360) | [![Stars](https://img.shields.io/github/stars/nicepkg/vr360?style=flat-square&label=⭐)](https://github.com/nicepkg/vr360) | Three.js panoramic solution, JSON-driven config |
 
 </details>
 
@@ -128,11 +143,7 @@ Write iOS widgets with TypeScript + JSX.
 ---
 
 <p align="center">
-  <b>INTP</b> — Curious by nature, allergic to bureaucracy, obsessed with productivity.
-</p>
-
-<p align="center">
-  <i>"成功就是以自己喜欢的方式生活"</i>
+  <b>INTP</b> — Automate everything. Slack more. Life is too short for repetitive work.
 </p>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
