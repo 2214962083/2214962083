@@ -58,9 +58,10 @@ Sync configs across **Claude Code**, **Cursor**, **OpenCode**, **Codex**. One ch
 <td width="50%">
 
 ### 🛒 [UnMarket](https://unmarket.xiaominglab.com)
+![WIP](https://img.shields.io/badge/⏳-WIP-yellow?style=flat-square)
 > [Website](https://unmarket.xiaominglab.com)
 
-Install **VS Code Marketplace** extensions in Cursor/Windsurf with one click. **WIP · Not yet open source**
+Install **VS Code Marketplace** extensions in Cursor/Windsurf with one click. **Not yet open source**
 
 </td>
 <td width="50%">
