@@ -42,7 +42,7 @@
 
 ## GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=2214962083&theme=default&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=2214962083&theme=default&hide_border=true&v=1)
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/2214962083)
 
