@@ -32,22 +32,22 @@ I believe **tool mastery > coding skill**. When others hand-weave, I use a sewin
 
 ## 🚀 Current Projects
 
-| Project | Description |
-|---------|-------------|
-| 🧠 **[ai-workflow](https://github.com/nicepkg/ai-workflow)** [![Stars](https://img.shields.io/github/stars/nicepkg/ai-workflow?style=flat-square&label=⭐)](https://github.com/nicepkg/ai-workflow) ([Web](https://ai-workflow.xiaominglab.com)) | 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools |
-| 🔄 **[Vsync](https://github.com/nicepkg/vsync)** [![Stars](https://img.shields.io/github/stars/nicepkg/vsync?style=flat-square&label=⭐)](https://github.com/nicepkg/vsync) ([Web](https://vsync.xiaominglab.com)) | Sync configs across Claude Code, Cursor, OpenCode, Codex |
-| 🛒 **[UnMarket](https://unmarket.xiaominglab.com)** ![WIP](https://img.shields.io/badge/⏳-WIP-yellow?style=flat-square) ([Web](https://unmarket.xiaominglab.com)) | VS Code Marketplace extensions for Cursor/Windsurf (not yet open source) |
-| 🤖 **[aide](https://github.com/nicepkg/aide)** [![Stars](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&label=⭐)](https://github.com/nicepkg/aide) ([Web](https://aide.nicepkg.cn)) | VS Code AI extension for code comments, conversion, batch processing |
+| Project | Stars | Description |
+|---------|:-----:|-------------|
+| 🧠 [**ai-workflow**](https://github.com/nicepkg/ai-workflow) · [Web](https://ai-workflow.xiaominglab.com) | ![](https://img.shields.io/github/stars/nicepkg/ai-workflow?style=flat-square&label=⭐) | 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools |
+| 🔄 [**Vsync**](https://github.com/nicepkg/vsync) · [Web](https://vsync.xiaominglab.com) | ![](https://img.shields.io/github/stars/nicepkg/vsync?style=flat-square&label=⭐) | Sync configs across Claude Code, Cursor, OpenCode, Codex |
+| 🛒 [**UnMarket**](https://unmarket.xiaominglab.com) · [Web](https://unmarket.xiaominglab.com) | ![](https://img.shields.io/badge/⏳-WIP-yellow?style=flat-square) | VS Code Marketplace extensions for Cursor/Windsurf (not yet open source) |
+| 🤖 [**aide**](https://github.com/nicepkg/aide) · [Web](https://aide.nicepkg.cn) | ![](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&label=⭐) | VS Code AI extension for code comments, conversion, batch processing |
 
 ## 📦 Legacy Projects
 
-| Project | Description |
-|---------|-------------|
-| 🎯 **[dom-to-code](https://github.com/better-tcy/dom-to-code)** [![Stars](https://img.shields.io/github/stars/better-tcy/dom-to-code?style=flat-square&label=⭐)](https://github.com/better-tcy/dom-to-code) | Ctrl+click any DOM → jump to source code in VS Code |
-| 🏃 **[gpt-runner](https://github.com/nicepkg/gpt-runner)** [![Stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=flat-square&label=⭐)](https://github.com/nicepkg/gpt-runner) | Manage AI prompts with Markdown files |
-| 📱 **[ios-scriptable-tsx](https://github.com/2214962083/ios-scriptable-tsx)** [![Stars](https://img.shields.io/github/stars/2214962083/ios-scriptable-tsx?style=flat-square&label=⭐)](https://github.com/2214962083/ios-scriptable-tsx) | Write iOS widgets with TypeScript + JSX |
-| 🦸 **[vue-superman](https://github.com/2214962083/vue-superman)** [![Stars](https://img.shields.io/github/stars/2214962083/vue-superman?style=flat-square&label=⭐)](https://github.com/2214962083/vue-superman) | Vue toolkit: JSX in templates, mock data generators |
-| 🌐 **[vr360](https://github.com/nicepkg/vr360)** [![Stars](https://img.shields.io/github/stars/nicepkg/vr360?style=flat-square&label=⭐)](https://github.com/nicepkg/vr360) | Three.js panoramic solution, JSON-driven config |
+| Project | Stars | Description |
+|---------|:-----:|-------------|
+| 🎯 [**dom-to-code**](https://github.com/better-tcy/dom-to-code) | ![](https://img.shields.io/github/stars/better-tcy/dom-to-code?style=flat-square&label=⭐) | Ctrl+click any DOM → jump to source code in VS Code |
+| 🏃 [**gpt-runner**](https://github.com/nicepkg/gpt-runner) | ![](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=flat-square&label=⭐) | Manage AI prompts with Markdown files |
+| 📱 [**ios-scriptable-tsx**](https://github.com/2214962083/ios-scriptable-tsx) | ![](https://img.shields.io/github/stars/2214962083/ios-scriptable-tsx?style=flat-square&label=⭐) | Write iOS widgets with TypeScript + JSX |
+| 🦸 [**vue-superman**](https://github.com/2214962083/vue-superman) | ![](https://img.shields.io/github/stars/2214962083/vue-superman?style=flat-square&label=⭐) | Vue toolkit: JSX in templates, mock data generators |
+| 🌐 [**vr360**](https://github.com/nicepkg/vr360) | ![](https://img.shields.io/github/stars/nicepkg/vr360?style=flat-square&label=⭐) | Three.js panoramic solution, JSON-driven config |
 
 ## 📊 GitHub Stats
 
