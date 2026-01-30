@@ -1,7 +1,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Jinming%20Yang&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Frontend%20Engineer%20%7C%20AI-First%20Builder&descAlignY=52&descSize=18)
 
 <p align="center">
-  <a href="https://github.com/nicepkg"><img src="https://img.shields.io/github/stars/nicepkg?style=for-the-badge&logo=github&label=nicepkg%20Stars" alt="nicepkg Stars"/></a>
+  <a href="https://github.com/nicepkg"><img src="https://img.shields.io/github/stars/nicepkg?style=for-the-badge&logo=github&label=Total%20Stars" alt="Total Stars"/></a>
 </p>
 
 <p align="center">
@@ -32,102 +32,22 @@ I believe **tool mastery > coding skill**. When others hand-weave, I use a sewin
 
 ## 🚀 Current Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 [ai-workflow](https://github.com/nicepkg/ai-workflow)
-[![Stars](https://img.shields.io/github/stars/nicepkg/ai-workflow?style=flat-square&label=⭐)](https://github.com/nicepkg/ai-workflow)
-> [Website](https://ai-workflow.xiaominglab.com)
-
-170+ pre-built skills for **Claude Code**, **Cursor**, **Codex** & 14+ AI tools. One command → instant domain expertise.
-
-</td>
-<td width="50%">
-
-### 🔄 [Vsync](https://github.com/nicepkg/vsync)
-[![Stars](https://img.shields.io/github/stars/nicepkg/vsync?style=flat-square&label=⭐)](https://github.com/nicepkg/vsync)
-> [Website](https://vsync.xiaominglab.com)
-
-Sync configs across **Claude Code**, **Cursor**, **OpenCode**, **Codex**. One change, everywhere updated.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛒 [UnMarket](https://unmarket.xiaominglab.com)
-![WIP](https://img.shields.io/badge/⏳-WIP-yellow?style=flat-square)
-> [Website](https://unmarket.xiaominglab.com)
-
-Install **VS Code Marketplace** extensions in Cursor/Windsurf with one click. **Not yet open source**
-
-</td>
-<td width="50%">
-
-### 🤖 [aide](https://github.com/nicepkg/aide)
-[![Stars](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&label=⭐)](https://github.com/nicepkg/aide)
-> [Website](https://aide.nicepkg.cn)
-
-VS Code AI extension. Select code → add comments, convert language, batch process files.
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| 🧠 **[ai-workflow](https://github.com/nicepkg/ai-workflow)** [![Stars](https://img.shields.io/github/stars/nicepkg/ai-workflow?style=flat-square&label=⭐)](https://github.com/nicepkg/ai-workflow) ([Web](https://ai-workflow.xiaominglab.com)) | 170+ pre-built skills for Claude Code, Cursor, Codex & 14+ AI tools |
+| 🔄 **[Vsync](https://github.com/nicepkg/vsync)** [![Stars](https://img.shields.io/github/stars/nicepkg/vsync?style=flat-square&label=⭐)](https://github.com/nicepkg/vsync) ([Web](https://vsync.xiaominglab.com)) | Sync configs across Claude Code, Cursor, OpenCode, Codex |
+| 🛒 **[UnMarket](https://unmarket.xiaominglab.com)** ![WIP](https://img.shields.io/badge/⏳-WIP-yellow?style=flat-square) ([Web](https://unmarket.xiaominglab.com)) | VS Code Marketplace extensions for Cursor/Windsurf (not yet open source) |
+| 🤖 **[aide](https://github.com/nicepkg/aide)** [![Stars](https://img.shields.io/github/stars/nicepkg/aide?style=flat-square&label=⭐)](https://github.com/nicepkg/aide) ([Web](https://aide.nicepkg.cn)) | VS Code AI extension for code comments, conversion, batch processing |
 
 ## 📦 Legacy Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 [dom-to-code](https://github.com/better-tcy/dom-to-code)
-[![Stars](https://img.shields.io/github/stars/better-tcy/dom-to-code?style=flat-square&label=⭐)](https://github.com/better-tcy/dom-to-code)
-
-Ctrl+click any DOM → jump to source code in VS Code.
-
-</td>
-<td width="50%">
-
-### 🏃 [gpt-runner](https://github.com/nicepkg/gpt-runner)
-[![Stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=flat-square&label=⭐)](https://github.com/nicepkg/gpt-runner)
-
-Manage AI prompts with Markdown files. Version control your AI personas.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📱 [ios-scriptable-tsx](https://github.com/2214962083/ios-scriptable-tsx)
-[![Stars](https://img.shields.io/github/stars/2214962083/ios-scriptable-tsx?style=flat-square&label=⭐)](https://github.com/2214962083/ios-scriptable-tsx)
-
-Write iOS widgets with TypeScript + JSX.
-
-</td>
-<td width="50%">
-
-### 🦸 [vue-superman](https://github.com/2214962083/vue-superman)
-[![Stars](https://img.shields.io/github/stars/2214962083/vue-superman?style=flat-square&label=⭐)](https://github.com/2214962083/vue-superman)
-
-Vue toolkit: JSX in templates, mock data generators, playground.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🌐 [vr360](https://github.com/nicepkg/vr360)
-[![Stars](https://img.shields.io/github/stars/nicepkg/vr360?style=flat-square&label=⭐)](https://github.com/nicepkg/vr360)
-
-Three.js panoramic solution. JSON-driven config for virtual tours.
-
-</td>
-<td width="50%">
-
-</td>
-</tr>
-</table>
+| Project | Description |
+|---------|-------------|
+| 🎯 **[dom-to-code](https://github.com/better-tcy/dom-to-code)** [![Stars](https://img.shields.io/github/stars/better-tcy/dom-to-code?style=flat-square&label=⭐)](https://github.com/better-tcy/dom-to-code) | Ctrl+click any DOM → jump to source code in VS Code |
+| 🏃 **[gpt-runner](https://github.com/nicepkg/gpt-runner)** [![Stars](https://img.shields.io/github/stars/nicepkg/gpt-runner?style=flat-square&label=⭐)](https://github.com/nicepkg/gpt-runner) | Manage AI prompts with Markdown files |
+| 📱 **[ios-scriptable-tsx](https://github.com/2214962083/ios-scriptable-tsx)** [![Stars](https://img.shields.io/github/stars/2214962083/ios-scriptable-tsx?style=flat-square&label=⭐)](https://github.com/2214962083/ios-scriptable-tsx) | Write iOS widgets with TypeScript + JSX |
+| 🦸 **[vue-superman](https://github.com/2214962083/vue-superman)** [![Stars](https://img.shields.io/github/stars/2214962083/vue-superman?style=flat-square&label=⭐)](https://github.com/2214962083/vue-superman) | Vue toolkit: JSX in templates, mock data generators |
+| 🌐 **[vr360](https://github.com/nicepkg/vr360)** [![Stars](https://img.shields.io/github/stars/nicepkg/vr360?style=flat-square&label=⭐)](https://github.com/nicepkg/vr360) | Three.js panoramic solution, JSON-driven config |
 
 ## 📊 GitHub Stats
 
