@@ -70,6 +70,10 @@ I believe **tool mastery > coding skill**. When others hand-weave, I use a sewin
 ## 🔗 Connect
 
 <p align="center">
+  <a href="mailto:a5297209@gmail.com">Gmail: a5297209@gmail.com</a> · <a href="mailto:2214962083@qq.com">QQ: 2214962083@qq.com</a>
+</p>
+
+<p align="center">
   <a href="https://github.com/2214962083"><img src="https://img.shields.io/badge/GitHub-2214962083-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://github.com/nicepkg"><img src="https://img.shields.io/badge/Org-nicepkg-181717?style=for-the-badge&logo=github" /></a>
   <a href="https://x.com/jinmingyang666"><img src="https://img.shields.io/badge/Twitter-@jinmingyang666-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
